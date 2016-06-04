@@ -1,5 +1,5 @@
 {
-    "name": "huoybb/test",
+    "name": "huoybb/support",
     "description": "try package",
     "type": "library",
     "license": "MIT",
@@ -12,7 +12,7 @@
     },
     "autoload":{
         "psr-4":{
-            "huoybb\\surpport\\":"src/"
+            "huoybb\\support\\":"src/"
         },
         "files":["src/helpers.php"]
     }
