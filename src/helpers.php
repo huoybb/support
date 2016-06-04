@@ -5,7 +5,3 @@
           var_dump($value);die();
       }
   }
-
-  function mydd($value){
-  	dd($value);
-  }
