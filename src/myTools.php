@@ -6,7 +6,7 @@
  * Time: 15:00
  */
 
-namespace huoybb;
+namespace huoybb\surpport;
 
 
 class myTools

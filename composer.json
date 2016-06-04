@@ -12,7 +12,7 @@
     },
     "autoload":{
         "psr-4":{
-            "huoybb\\":"src/"
+            "huoybb\\surpport\\":"src/"
         },
         "files":["src/helpers.php"]
     }
